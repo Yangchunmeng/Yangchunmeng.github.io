@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Electrical Engineer with Passion to Make a Dent in the Universe"
+title: "Electrical Engineer with Passion"
 author_profile: true
 redirect_from: 
   - /about/
